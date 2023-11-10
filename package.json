@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ffmpeg/ffmpeg": "^0.12.7",
+    "http": "^0.0.1-security"
+  }
+}
